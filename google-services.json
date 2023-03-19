@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205914457312",
+    "project_id": "centrio-mall",
+    "storage_bucket": "centrio-mall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205914457312:android:70f3bca5df2fcb336fbc85",
+        "android_client_info": {
+          "package_name": "com.mobiquest.centriomall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205914457312-mi8c2p4t0l57adu829f57iimodklbj85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtllmruABL_Mtada-ZPo9XTVRJzr72HYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205914457312-mi8c2p4t0l57adu829f57iimodklbj85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
